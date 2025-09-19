@@ -36,7 +36,7 @@ GROQ_API_KEY=your_api_key_here
 
 ---
 
-## 🎙️ Step 1: Transcription
+## Step 1: Transcription
 
 1. Put all your evaluation audio files (`.mp3`, `.wav`, `.flac`) into the folder:
 
