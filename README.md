@@ -51,7 +51,7 @@ python transcript.py
 ```
 
 - **Input**: `eval_audios/`  
-- **Output**: `transcript.txt`
+- **Output**: `transcripts.txt`
 
 ---
 
@@ -63,7 +63,7 @@ Run:
 python truth_analysis.py
 ```
 
-- **Input**: `transcript.txt`  
+- **Input**: `transcripts.txt`  
 - **Output**: `submission.json`
 
 ---
@@ -76,7 +76,7 @@ Run:
 python clean_transcript.py
 ```
 
-- **Input**: `transcript.txt` (you can rename  `transcript.txt` if you want to clean them)  
+- **Input**: `transcripts.txt` (you can rename  `transcript.txt` if you want to clean them)  
 - **Output**: `cleaned_transcript.txt`  
 
 The cleaned transcripts keep only **lowercase letters, spaces, and full stops**.
