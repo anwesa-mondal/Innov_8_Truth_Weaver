@@ -76,7 +76,7 @@ Run:
 python clean_transcript.py
 ```
 
-- **Input**: `transcribed.txt` (you can rename `submission.json` or `transcript.txt` if you want to clean them)  
+- **Input**: `transcript.txt` (you can rename  `transcript.txt` if you want to clean them)  
 - **Output**: `cleaned_transcript.txt`  
 
 The cleaned transcripts keep only **lowercase letters, spaces, and full stops**.
